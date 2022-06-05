@@ -1,3 +1,11 @@
+# ignore data files
+input/*
+output/*
+src/img/*
+src/ttf/*
+
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
